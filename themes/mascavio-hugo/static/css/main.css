@@ -1,0 +1,61 @@
+.bg-mascavio {
+    background: #ff9900;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.post-content  {
+    font-family: 'Raleway', sans-serif;
+}
+
+.post-content a {
+    color: #ff9900
+}
+
+.post-content h2, 
+.post-content h3, 
+.post-content h4, 
+.post-content h5,
+.post-content h6 {
+    font-family: 'Raleway', sans-serif;
+    margin: 0.5em 0;
+}  
+
+.post-content img {
+    max-width: 100%;
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 400px !important;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+
+.card-body {
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+
+.card-shadow {
+    border: 0;
+    box-shadow: 0 0 0 1px rgba(255,255,255,.1), 0 2px 4px 0 rgba(14,30,37,.12);
+}
+.rounded {
+    border-radius: 8px!important;
+}
+
+.p-md-5 {
+    padding: 20px
+}
+
+.aside-img {
+    max-width: 300px;
+}

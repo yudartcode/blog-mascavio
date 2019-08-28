@@ -1,0 +1,26 @@
+baseURL = "http://blog.mascavio.netlify.com/"
+languageCode = "en-us"
+title = "Blog Mascavio"
+
+# Agar front-matter pakai format YAML
+MetaDataFormat = "yaml"
+
+# untuk apply temanya
+themesDir = "themes"
+theme = "mascavio-hugo"
+
+# Shortname disqus, silahkan sesuaikan
+DisqusShortname = "mascavio"
+
+# Untuk Google Analytic, silahkan sesuikan
+googleAnalytics = "" 
+
+# Untuk deskripsi tag meta di homepage
+description = "Informasi tentang teknologi"
+
+# Biodata Author
+[author]
+    name = "Yuda Karnaen"
+    homepage = "https://twitter.com/yudakarnaen"
+    bio = "Keep Sleeping"
+    image = "https://lh3.googleusercontent.com/Xp_90-_mtO9xIY896R_oN2hLlHRuT71pz_OagTO-oYc7aD4Q6tGa4L0E7la-E8t2m5aESjNvTe-9kqKZKOTTTkjIdjPilw7eXYJUzatsKuHBNDd0T5c2xP-x29FC9yXEkpwUUaAkZRptjBjfaMqcjUcLXpaxXOcLFaeu-b-JB0D0DwYDtNgy9_gQ_PMY-YXEOgPCx2OGg2Q38zUMkFEU41AInnqmURDhcIPkUIqXLt0T1BID9iQ6fQhK-7yVq2KxboApWpng_5aGRn0vqZkt5uZBjKLX3tkipzpfHmVE15VwAJS5LWVet5oErRZILCDtxy9wqUM-4X6M1OE-0GsrD62KnviXGg4oBhNrf8hLibI1CTKJRDTwPjT9ljw2U4SrYYIZXeVPj7eI2NBdUkAutbsrB5hoqcrQJDVKj0NylRMOqYv7bcKkx1DAYnaXkGop5TwbrxSZlGHUCuUAu8Cg3RQ-Gi6V7FWBSoCfWGxSiuyhr4WitxIwKlNM3_vQyoCLQIpYgkVAiNE5m5-s-z-AYhvWHOdKkQ3Wz8HkZIKPJ80Jsxm1wx031iOyEXcg53Zu4sOAv3mEUdiaDb2WRyjCh0wpqiX_Qv7XLGF7IHoTJHn9hJhuM-XMInHPyALd2IovjUvga-ansywQwNIw4UE5ktyq0iHLH2o=w677-h667-no"
